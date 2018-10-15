@@ -1,0 +1,15 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.me
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+
+*.tar.gz
+*.rar
